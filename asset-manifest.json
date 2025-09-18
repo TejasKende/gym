@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GYM/static/css/main.bf3a38b2.css",
-    "main.js": "/GYM/static/js/main.cf5f1882.js",
+    "main.js": "/GYM/static/js/main.c54cf985.js",
     "static/js/453.efedeab7.chunk.js": "/GYM/static/js/453.efedeab7.chunk.js",
     "index.html": "/GYM/index.html",
     "main.bf3a38b2.css.map": "/GYM/static/css/main.bf3a38b2.css.map",
-    "main.cf5f1882.js.map": "/GYM/static/js/main.cf5f1882.js.map",
+    "main.c54cf985.js.map": "/GYM/static/js/main.c54cf985.js.map",
     "453.efedeab7.chunk.js.map": "/GYM/static/js/453.efedeab7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf3a38b2.css",
-    "static/js/main.cf5f1882.js"
+    "static/js/main.c54cf985.js"
   ]
 }
