@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GYM/static/css/main.bf3a38b2.css",
-    "main.js": "/GYM/static/js/main.c54cf985.js",
-    "static/js/453.efedeab7.chunk.js": "/GYM/static/js/453.efedeab7.chunk.js",
-    "index.html": "/GYM/index.html",
-    "main.bf3a38b2.css.map": "/GYM/static/css/main.bf3a38b2.css.map",
-    "main.c54cf985.js.map": "/GYM/static/js/main.c54cf985.js.map",
-    "453.efedeab7.chunk.js.map": "/GYM/static/js/453.efedeab7.chunk.js.map"
+    "main.css": "/gym/static/css/main.ad1832f0.css",
+    "main.js": "/gym/static/js/main.a0713455.js",
+    "static/js/453.efedeab7.chunk.js": "/gym/static/js/453.efedeab7.chunk.js",
+    "index.html": "/gym/index.html",
+    "main.ad1832f0.css.map": "/gym/static/css/main.ad1832f0.css.map",
+    "main.a0713455.js.map": "/gym/static/js/main.a0713455.js.map",
+    "453.efedeab7.chunk.js.map": "/gym/static/js/453.efedeab7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf3a38b2.css",
-    "static/js/main.c54cf985.js"
+    "static/css/main.ad1832f0.css",
+    "static/js/main.a0713455.js"
   ]
 }
