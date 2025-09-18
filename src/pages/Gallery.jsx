@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function Gallery() {
   const galleryItems = [
     {
@@ -88,7 +90,7 @@ function Gallery() {
               <div className="bg-white rounded-3 shadow-sm p-4">
                 <h4 className="fw-bold mb-3">Ready to Start Your Fitness Journey?</h4>
                 <p className="text-secondary mb-4">Join our community and transform your life with our world-class facilities and expert trainers.</p>
-                <a href="/gym/contact" className="btn btn-danger btn-lg px-5">Join Now</a>
+                 <Link to="/gym/contact" className="btn btn-danger btn-lg px-5">Join Now</Link>
               </div>
             </div>
           </div>
