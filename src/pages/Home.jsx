@@ -82,7 +82,7 @@ function Home() {
           <div className="col-12 col-lg-8">
             <h1 className="display-5 fw-bold">Transform Your Body, Transform Your Life</h1>
             <p className="lead mt-3">Join a community that elevates your fitness journey.</p>
-            <Link to="/contact" className="btn btn-danger btn-lg mt-2">Join Now</Link>
+            <Link to="/gym/contact" className="btn btn-danger btn-lg mt-2">Join Now</Link>
           </div>
         </div>
       </section>
@@ -174,8 +174,8 @@ function Home() {
               <h2 className="fw-bold display-6 mb-3">Ready to Transform Your Life?</h2>
               <p className="lead mb-4">Join thousands of satisfied members and start your fitness journey today!</p>
               <div className="d-flex gap-3 justify-content-center flex-wrap">
-                <Link to="/contact" className="btn btn-light btn-lg px-5">Start Free Trial</Link>
-                <Link to="/services" className="btn btn-outline-light btn-lg px-5">View Programs</Link>
+                <Link to="/gym/contact" className="btn btn-light btn-lg px-5">Start Free Trial</Link>
+                <Link to="/gym/services" className="btn btn-outline-light btn-lg px-5">View Programs</Link>
               </div>
             </div>
           </div>
