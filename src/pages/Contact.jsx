@@ -23,7 +23,7 @@ function Contact() {
                 <textarea className="form-control" id="message" rows="4" placeholder="How can we help?"></textarea>
               </div>
               <div className="col-12">
-                <button type="submit" className="btn btn-cta">Send Message</button>
+                <button type="submit" className="btn btn-cta btn-danger py-2 px-3 mt-1">Send Message</button>
               </div>
             </form>
           </div>
